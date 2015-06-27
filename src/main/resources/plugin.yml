@@ -1,0 +1,6 @@
+name: AutoShutdown
+version: 1.0.0
+description: Automatically shut the server down when nobody is on it.
+author: moltendorf
+website: http://dev.bukkit.org/server-mods/moltendorf-autoshutdown/
+main: net.moltendorf.Bukkit.AutoShutdown.AutoShutdown

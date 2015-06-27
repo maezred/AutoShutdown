@@ -1,0 +1,3 @@
+enabled: true
+save: 200 # 10 seconds.
+ticks: 1200 # 1 minute.
